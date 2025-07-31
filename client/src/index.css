@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CustomToastContainer.css */
+.custom-toast-container .Toastify__toast {
+    width: 450px;
+  }
